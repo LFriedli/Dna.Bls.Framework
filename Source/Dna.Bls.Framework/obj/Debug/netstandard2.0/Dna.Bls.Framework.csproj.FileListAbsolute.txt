@@ -1,0 +1,9 @@
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\bin\Debug\netstandard2.0\Dna.Bls.Framework.deps.json
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\bin\Debug\netstandard2.0\Dna.Bls.Framework.dll
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\bin\Debug\netstandard2.0\Dna.Bls.Framework.pdb
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.csprojAssemblyReference.cache
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.AssemblyInfoInputs.cache
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.AssemblyInfo.cs
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.dll
+C:\Users\Laurent\source\repos\Dna.Bls.Framework\Source\Dna.Bls.Framework\obj\Debug\netstandard2.0\Dna.Bls.Framework.pdb
